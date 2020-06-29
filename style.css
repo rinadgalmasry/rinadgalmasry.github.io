@@ -1,0 +1,73 @@
+html
+{
+   background-color:azure
+   }
+   
+h1
+{
+	text-align: center;
+}
+
+button
+{
+background-color:lightpink;
+padding: 15px 32px;
+text-align: center;
+font-size: 18px;
+}
+
+.F
+{
+	
+    margin:0;
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+	
+}
+
+.L
+{
+		
+    margin:0;
+  position: absolute;
+  top: 55%;
+  left: 35%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.S
+{
+	
+    margin:0;
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.R
+{
+	
+    margin:0;
+  position: absolute;
+  top: 55%;
+  left: 65%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.B
+{
+	
+    margin:0;
+  position: absolute;
+  top: 65%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
